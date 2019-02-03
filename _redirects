@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://compassionate-meitner-587cbe.netlify.com/* http://bifulco.net/:splat 301!
